@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="147" started-at="2020-04-10T14:57:28Z" finished-at="2020-04-10T14:57:28Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="147" started-at="2020-04-10T14:57:28Z" finished-at="2020-04-10T14:57:28Z">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="m3()[pri:0, instance:qaclickacademy.AppiumTest@1786dec2]" name="m3" duration-ms="52" started-at="2020-04-10T14:57:28Z" finished-at="2020-04-10T14:57:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+        <test-method status="PASS" signature="m4()[pri:0, instance:qaclickacademy.AppiumTest@1786dec2]" name="m4" duration-ms="1" started-at="2020-04-10T14:57:28Z" finished-at="2020-04-10T14:57:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m4 -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.RestApiTest">
+        <test-method status="PASS" signature="m1()[pri:0, instance:qaclickacademy.RestApiTest@15d0c81b]" name="m1" duration-ms="2" started-at="2020-04-10T14:57:28Z" finished-at="2020-04-10T14:57:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="m2()[pri:0, instance:qaclickacademy.RestApiTest@15d0c81b]" name="m2" duration-ms="1" started-at="2020-04-10T14:57:28Z" finished-at="2020-04-10T14:57:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+      </class> <!-- qaclickacademy.RestApiTest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="navigateUi()[pri:0, instance:qaclickacademy.SeleniumTest@74650e52]" name="navigateUi" duration-ms="1" started-at="2020-04-10T14:57:28Z" finished-at="2020-04-10T14:57:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateUi -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:qaclickacademy.SeleniumTest@74650e52]" name="openBrowser" duration-ms="3" started-at="2020-04-10T14:57:28Z" finished-at="2020-04-10T14:57:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
